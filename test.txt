@@ -3,3 +3,4 @@ test 1111111
 这是需要合并的内容,修改第二行制造冲突
 这是分支中修改内容，合并master
 version1
+version2
